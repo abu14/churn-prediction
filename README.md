@@ -18,7 +18,7 @@ For these project I used these tools.
 
   #### Demo
 
-  ![dashboard](https://github.com/user-attachments/assets/ff124e6e-f0f5-477e-8e22-21e4a53dc471)
+  ![Image](https://github.com/user-attachments/assets/7bd32ce3-a9ec-4cfa-bbf2-f3ef6050285d)
 
 
 
