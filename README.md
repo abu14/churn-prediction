@@ -2,6 +2,18 @@
 
 This is a project I did trying to solve the age old Churn problem, specific to Telecom. I've been part of the CVM team tasked with re-engaging churning customers. Throughout my time we've had various successes recovering these customers with tailor made offers. Churn prediction being the main enabler of these initiatives.
 
+# Project Workflow
+
+```
+Churn Predictiton 
+├── Data Collection    
+├── Data Preprocessing
+├── Model Training           
+├── Model Evaluation         
+├── Hyperparameter Tuning   
+└── Deployment         
+```
+
 For these project I used these tools.
 
 <p>
@@ -43,4 +55,7 @@ For these project I used these tools.
   </a>
 </p>
 
-⭐️ From [Abenezer Tesfaye](https://github.com/abu14)
+
+<!-- Project Link -->
+ 
+Project Link: [Github Repo](https://github.com/abu14/Telecom-Churn-Prediction)
