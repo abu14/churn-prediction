@@ -1,6 +1,14 @@
 # Hello there 👋
 
-This is a project I did trying to solve the age old Churn problem, specific to Telecom. I've been part of the CVM team tasked with re-engaging churning customers. Throughout my time we've had various successes recovering these customers with tailor made offers. Churn prediction being the main enabler of these initiatives.
+This is a project I did trying to solve the age old Churn problem, specific to Telecom. 
+
+What is Churn?
+
+> In the telecom industry, "**churn**" refers to the rate at which customers stop using a service provider's plans and switch to another company or simply discontinue their service,
+essentially representing the percentage of customers who leave within a specific period, signifying a loss of subscribers and impacting the company's revenue. 
+
+
+I've been part of the CVM team tasked with re-engaging churning customers. Customer inactivity and churn was a constant problem we worked on. Throughout my time we've had various successes recovering these churning customers with tailor made offers. The churn prediction model being the main enabler of these initiatives.
 
 # Project Workflow
 
