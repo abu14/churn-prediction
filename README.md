@@ -2,7 +2,7 @@
 
 This is a project I did trying to solve the age old Churn problem, specific to Telecom. 
 
-What is Churn?
+### What is Churn?
 
 > In the telecom industry, "**churn**" refers to the rate at which customers stop using a service provider's plans and switch to another company or simply discontinue their service,
 essentially representing the percentage of customers who leave within a specific period, signifying a loss of subscribers and impacting the company's revenue. 
